@@ -83,7 +83,7 @@ fun validarCorreo(correo: String): Boolean{
 
 }
 fun validarSistemaDeSalud(sistemaSalud: String): Boolean{
-    return sistemaSalud=="Fonasa"|| sistemaSalud=="Isapre"||sistemaSalud=="fonada"||sistemaSalud=="isapre"
+    return sistemaSalud=="Fonasa"|| sistemaSalud=="Isapre"||sistemaSalud=="fonasa"||sistemaSalud=="isapre"
 
 }
 
